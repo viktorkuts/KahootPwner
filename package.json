@@ -1,0 +1,29 @@
+{
+  "name": "kahootpwner",
+  "version": "3.2.0",
+  "description": "A Node.js Kahoot bot that will mass connect to a kahoot session and answer questions randomly.",
+  "main": "KahootPwnerMain.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkingqc/kahootpwner.git"
+  },
+  "keywords": [
+    "node-js",
+    "kahoot",
+    "cmdline",
+    "kahoot-bot",
+    "kahoot-hack"
+  ],
+  "author": "volkingqc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkingqc/kahootpwner/issues"
+  },
+  "homepage": "https://github.com/volkingqc/kahootpwner#readme",
+  "dependencies": {
+    "kahoot.js-updated": "^2.3.4"
+  }
+}
